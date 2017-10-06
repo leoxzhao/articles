@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# Welcome to Leo Zhao's Pages
 
-You can use the [editor on GitHub](https://github.com/leoxzhao/leoxzhao.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## How Fast is Swift, and Why (Part 3)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Can Swift keep its speed gain in complex cases?
+This article will check `class` and `override`.
+[View Swift vs Objective C (3)](swift-speed-3.html).
 
-### Markdown
+## How Fast is Swift, and Why (Part 2)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Swift is faster than Objective C. This article digs deeper to find out why. 
+[View Swift vs Objective C (2)](swift-speed-2.html).
 
-```markdown
-Syntax highlighted code block
+## How Fast is Swift, and Why
 
-# Header 1
-## Header 2
-### Header 3
+Swift is faster than Objective C. This article digs deeper to find out why.
+[View Swift vs Objective C](swift-speed.html).
 
-- Bulleted
-- List
+## Note of Xcode9/Swift4 Migration
 
-1. Numbered
-2. List
+Xcode 9 released a few days ago.
+I did the migration for a few our projects and wrote some note that might be helpful for both someone else out there and future me.
+[View Migrate to Swift 4](migrate-to-swift4.html).
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/leoxzhao/leoxzhao.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
