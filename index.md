@@ -1,5 +1,10 @@
 # Welcome to Leo Zhao's Pages
 
+## Disposable Code
+
+Code is written as if it has perpetual value. But in reality, it should be treated as disposable goods.
+[Disposable Code](disposable-code.html).
+
 ## How Fast is Swift, and Why (Part 3)
 
 Can Swift keep its speed gain in complex cases?
